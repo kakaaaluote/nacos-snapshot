@@ -1,0 +1,9 @@
+namespaces: 
+  - cross-env
+  - ci
+  - testonline
+  - predeploy
+
+devices:
+  - core400s
+  - core300s

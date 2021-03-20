@@ -1,0 +1,6 @@
+# jenkins_job_name: jmx
+fullTest_Core400SUS_Cloud_API: testplans/AirPurifier/Core400SUS/Core400SUS.jmx
+
+
+# jmx: [devices]
+testplans/AirPurifier/Core400SUS/Core400SUS.jmx: [core400, core300]
